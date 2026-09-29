@@ -7,14 +7,14 @@
 #4. Boolean(bool) = True or False | Eg: True
 
 #You can check the data type with the help of 'type()' function.
-# name = "tom"
-# print(type(name))
+name = "tom"
+print(type(name))
 
 # #Type Casting
 # #It is a method of changing the data type of a data to another
-# a = 31
-# print(str(a))
-# print(float(a))
+a = 31
+print(str(a))
+print(float(a))
 
 #Operators in Python
 #1. Arithmetic Operators (+,-,*,**,/,//,%)
